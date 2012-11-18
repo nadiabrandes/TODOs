@@ -6,9 +6,9 @@
     <string name="DONE">Done</string>
     <string name="ADD">Add</string>
     <string name="edit_message">Description</string>
-    <string name="button_send">Send</string>
+    <string name="button_send">Create</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
-    <string name="title_activity_task_list">TaskListActivity</string>
+    <string name="title_activity_task_list">RememberTheTahini</string>
 
 </resources>

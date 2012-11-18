@@ -14,12 +14,7 @@ public class ItemDetails {
 	public void setItemDescription(String itemDescription) {
 		this.itemDescription = itemDescription;
 	}
-	public String getPrice() {
-		return price;
-	}
-	public void setPrice(String price) {
-		this.price = price;
-	}
+	
 	public int getImageNumber() {
 		return imageNumber;
 	}
@@ -29,7 +24,6 @@ public class ItemDetails {
 	
 	private String name ;
 	private String itemDescription;
-	private String price;
 	private int imageNumber;
 
 	
